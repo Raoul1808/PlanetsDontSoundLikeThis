@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 
 // TODO: Rename this namespace to your mod's name.
-namespace MyAdofaiMod
+namespace PlanetsDontSoundLikeThis
 {
     /// <summary>
     /// Add all of your <see cref="HarmonyPatch"/> classes here. If you find

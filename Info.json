@@ -1,11 +1,11 @@
 {
-  "Id": "MyAdofaiMod",
+  "Id": "PlanetsDontSoundLikeThis",
   "DisplayName": "My ADOFAI Mod",
   "Author": "<fill in>",
   "Version": "$VERSION",
   "ManagerVersion": "0.22.14.0",
-  "AssemblyName": "MyAdofaiMod.dll",
-  "EntryMethod": "MyAdofaiMod.Startup.Load",
+  "AssemblyName": "PlanetsDontSoundLikeThis.dll",
+  "EntryMethod": "PlanetsDontSoundLikeThis.Startup.Load",
   "HomePage": "<fill in or delete>",
   "Repository": "<fill in or delete>"
 }
